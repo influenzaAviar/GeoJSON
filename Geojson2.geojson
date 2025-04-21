@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2590338000000001,
+                    42.794936300000003
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10421269162,
+                "tipoConector1": "Conector Tipo 1",
+                "tipoConector2": "Conector Tipo 2",
+                "tipoConector3": "Conector Tipo 3",
+                "tipoConector4": null,
+                "txtPiso": null,
+                "txtParroquia": null,
+                "cmbAyuntamientoEstablecimientoAsociado_impresion": "Agolada",
+                "txtLocalidad": null,
+                "tipoCoordenada": "PUNTO_CARGA",
+                "txtEstablecimientoAsociado": "Centro comercial gran via",
+                "cmbAyuntamiento_impresion": "Agolada",
+                "txtDireccionAux": null,
+                "rbTipoHorario": "1",
+                "txtNumExpAltaTension": "IN407A/2023/000007",
+                "txtNumero": null,
+                "cmbAyuntamiento": "20",
+                "cmbProvincia_impresion": "Pontevedra",
+                "txtCoordY": "4629679.083",
+                "txtLugar": null,
+                "txtCoordX": "630690.185",
+                "cmbProvincia": "36",
+                "txtNumRegistroDist": null,
+                "txtNumExpBajaTension": null,
+                "cmbTipoVia_impresion": "ACCESO",
+                "txtHorarioAperturaHasta2": "11:00",
+                "txtHorarioAperturaHasta1": "00:00",
+                "txtDireccion": "Vincios, XIan",
+                "txtBloque": null,
+                "numeroCargadores": "1",
+                "txtPuerta": null,
+                "cmbProvinciaEstablecimientoAsociado_impresion": "Pontevedra",
+                "txtHorarioAperturaDesde1": "12:00",
+                "txtHorarioAperturaDesde2": "06:00",
+                "cmbAyuntamientoEstablecimientoAsociado": "20",
+                "cmbTipoVia": "ACCES",
+                "txtCodigoPostalEstablecimientoAsociado": "36316",
+                "txtCodigoPostal": "36316",
+                "cmbProvinciaEstablecimientoAsociado": "36",
+                "txtReferenciaCatastral": "3823194NG1632S0001QR",
+                "operador": "IBERDROLA SA",
+                "txtLocalidadEstablecimientoAsociado": null
+            }
+        }
+    ]
+}
