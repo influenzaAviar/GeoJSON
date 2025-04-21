@@ -1,0 +1,363 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2590338000000001,
+                    42.794936300000003
+                ]
+            },
+            "attributes": {
+                "OBJECTID": 10421269162,
+                "tipoConector1": "Conector Tipo 1",
+                "tipoConector2": "Conector Tipo 2",
+                "tipoConector3": "Conector Tipo 3",
+                "tipoConector4": null,
+                "txtPiso": null,
+                "txtParroquia": null,
+                "cmbAyuntamientoEstablecimientoAsociado_impresion": "Agolada",
+                "txtLocalidad": null,
+                "tipoCoordenada": "PUNTO_CARGA",
+                "txtEstablecimientoAsociado": "Centro comercial gran via",
+                "cmbAyuntamiento_impresion": "Agolada",
+                "txtDireccionAux": null,
+                "rbTipoHorario": "1",
+                "txtNumExpAltaTension": "IN407A/2023/000007",
+                "txtNumero": null,
+                "cmbAyuntamiento": "20",
+                "cmbProvincia_impresion": "Pontevedra",
+                "txtCoordY": "4629679.083",
+                "txtLugar": null,
+                "txtCoordX": "630690.185",
+                "cmbProvincia": "36",
+                "txtNumRegistroDist": null,
+                "txtNumExpBajaTension": null,
+                "cmbTipoVia_impresion": "ACCESO",
+                "txtHorarioAperturaHasta2": "11:00",
+                "txtHorarioAperturaHasta1": "00:00",
+                "txtDireccion": "Vincios, XIan",
+                "txtBloque": null,
+                "numeroCargadores": "1",
+                "txtPuerta": null,
+                "cmbProvinciaEstablecimientoAsociado_impresion": "Pontevedra",
+                "txtHorarioAperturaDesde1": "12:00",
+                "txtHorarioAperturaDesde2": "06:00",
+                "cmbAyuntamientoEstablecimientoAsociado": "20",
+                "cmbTipoVia": "ACCES",
+                "txtCodigoPostalEstablecimientoAsociado": "36316",
+                "txtCodigoPostal": "36316",
+                "cmbProvinciaEstablecimientoAsociado": "36",
+                "txtReferenciaCatastral": "3823194NG1632S0001QR",
+                "operador": "IBERDROLA SA",
+                "txtLocalidadEstablecimientoAsociado": null
+            }
+        }
+    ],
+    "metadata": {
+        "idField": "OBJECTID",
+        "name": "CoordenadasPuntoMongo",
+        "templates": [
+            {
+                "name": "Editar MongoCoordenadaPunto",
+                "description": "Plantilla para modificar los datos de CoordenadaPuntoMongo",
+                "drawingTool": "esriFeatureEditToolPoint",
+                "prototype": {
+                    "attributes": {
+                    }
+                }
+            }
+        ],
+        "fields": [
+            {
+                "name": "tipoConector1",
+                "type": "string",
+                "alias": "Conector Tipo 1",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "tipoConector2",
+                "type": "string",
+                "alias": "Conector Tipo 2",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "tipoConector3",
+                "type": "string",
+                "alias": "Conector Tipo 3",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "tipoConector4",
+                "type": "string",
+                "alias": "Conector Tipo 4",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtPiso",
+                "type": "string",
+                "alias": "txtPiso",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtParroquia",
+                "type": "string",
+                "alias": "txtParroquia",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbAyuntamientoEstablecimientoAsociado_impresion",
+                "type": "string",
+                "alias": "cmbAyuntamientoEstablecimientoAsociado_impresion",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtLocalidad",
+                "type": "string",
+                "alias": "txtLocalidad",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "tipoCoordenada",
+                "type": "string",
+                "alias": "tipoCoordenada",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtEstablecimientoAsociado",
+                "type": "string",
+                "alias": "txtEstablecimientoAsociado",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbAyuntamiento_impresion",
+                "type": "string",
+                "alias": "cmbAyuntamiento_impresion",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtDireccionAux",
+                "type": "string",
+                "alias": "txtDireccionAux",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "rbTipoHorario",
+                "type": "string",
+                "alias": "rbTipoHorario",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtNumExpAltaTension",
+                "type": "string",
+                "alias": "txtNumExpAltaTension",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtNumero",
+                "type": "string",
+                "alias": "txtNumero",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbAyuntamiento",
+                "type": "string",
+                "alias": "cmbAyuntamiento",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbProvincia_impresion",
+                "type": "string",
+                "alias": "cmbProvincia_impresion",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtCoordY",
+                "type": "string",
+                "alias": "txtCoordY",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtLugar",
+                "type": "string",
+                "alias": "txtLugar",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtCoordX",
+                "type": "string",
+                "alias": "txtCoordX",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbProvincia",
+                "type": "string",
+                "alias": "cmbProvincia",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtNumRegistroDist",
+                "type": "string",
+                "alias": "txtNumRegistroDist",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtNumExpBajaTension",
+                "type": "string",
+                "alias": "txtNumExpBajaTension",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "cmbTipoVia_impresion",
+                "type": "string",
+                "alias": "cmbTipoVia_impresion",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtHorarioAperturaHasta2",
+                "type": "string",
+                "alias": "txtHorarioAperturaHasta2",
+                "length": 128,
+                "editable": true
+            },
+            {
+                "name": "txtHorarioAperturaHasta1",
+                "type": "string",
+                "alias": "txtHorarioAperturaHasta1",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtDireccion",
+                "type": "string",
+                "alias": "txtDireccion",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtBloque",
+                "type": "string",
+                "alias": "txtBloque",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "numeroCargadores",
+                "type": "string",
+                "alias": "numeroCargadores",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtPuerta",
+                "type": "string",
+                "alias": "txtPuerta",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "cmbProvinciaEstablecimientoAsociado_impresion",
+                "type": "string",
+                "alias": "cmbProvinciaEstablecimientoAsociado_impresion",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtHorarioAperturaDesde1",
+                "type": "string",
+                "alias": "txtHorarioAperturaDesde1",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtHorarioAperturaDesde2",
+                "type": "string",
+                "alias": "txtHorarioAperturaDesde2",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "cmbAyuntamientoEstablecimientoAsociado",
+                "type": "string",
+                "alias": "cmbAyuntamientoEstablecimientoAsociado",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "cmbTipoVia",
+                "type": "string",
+                "alias": "cmbTipoVia",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtCodigoPostalEstablecimientoAsociado",
+                "type": "string",
+                "alias": "txtCodigoPostalEstablecimientoAsociado",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtCodigoPostal",
+                "type": "string",
+                "alias": "txtCodigoPostal",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "ctxtCodigoPostal",
+                "type": "string",
+                "alias": "txtCodigoPostal",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtReferenciaCatastral",
+                "type": "string",
+                "alias": "txtReferenciaCatastral",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "operador",
+                "type": "string",
+                "alias": "operador",
+                "length": 256,
+                "editable": true
+            },
+            {
+                "name": "txtLocalidadEstablecimientoAsociado",
+                "type": "string",
+                "alias": "txtLocalidadEstablecimientoAsociado",
+                "length": 256,
+                "editable": true
+            }
+        ]
+    }
+}
